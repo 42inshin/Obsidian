@@ -209,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c13ef3163012c3a",
+  "active": "42174badbae27cf6",
   "lastOpenFiles": [
+    "20.Areas/CS/Web/브라우저 렌더링.md",
+    "README.md",
     "99.Meta/Templates",
     "99.Meta/Images",
     "99.Meta",
@@ -222,10 +224,8 @@
     "20.Areas",
     "10.Projects",
     "00.Inbox",
-    "20. Areas/CS/Web",
     "20. Areas/CS/무제.md",
     "20. Areas/CS/브라우저 렌더링.md",
-    "README.md",
     "무제.md"
   ]
 }
