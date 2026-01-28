@@ -27,7 +27,27 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban Roadmap.md",
+                "file": "Kanban/Kanban Roadmap.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Roadmap"
+            }
+          },
+          {
+            "id": "66220053f92b6a83",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Kanban Roadmap.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -140,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kanban/Kanban Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Kanban Roadmap 의 백링크"
             }
           },
           {
@@ -158,11 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kanban/Kanban Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Kanban Roadmap 의 나가는 링크"
             }
           },
           {
@@ -200,12 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kanban/Kanban Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Kanban Roadmap 의 개요"
             }
           },
           {
@@ -229,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -245,14 +268,30 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "438393270d800e62",
+  "active": "7e001f822c6852e2",
   "lastOpenFiles": [
-    "00.Inbox/테스트.md",
-    "00.Inbox/트.md",
+    "Kanban/Kanban.md",
+    "Kanban/Kanban Roadmap.md",
+    "Excalidraw/Excalidraw.md",
+    "README.md",
+    "Obsidian 1.md",
+    "Vault.md",
+    "Kanban",
+    "Untitled.md",
+    "Obsidian.md",
     "00.Inbox/00.Inbox.md",
+    "Excalidraw/Drawing 2026-01-28 22.45.07.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-28 22.45.44.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-28 22.45.58.excalidraw.md",
+    "Excalidraw/이름 없는 보드.md",
+    "Excalidraw/Drawing 2026-01-28 22.45.55.excalidraw.md",
+    "00.Inbox/테스트.md",
+    "Excalidraw",
+    "00.Inbox/트.md",
     "20.Areas/CS/Web/브라우저 렌더링.md",
     "20.Areas/CS/Web/Untitled.md",
     "10.Projects/10.Projects.md",
@@ -266,22 +305,10 @@
     "40. Archives",
     "30. Resources/30. Resources.md",
     "30. Resources",
-    "20. Areas/20. Areas.md",
     "20. Areas",
-    "10. Projects/10. Projects.md",
     "10. Projects",
-    "00. Inbox/00. Inbox.md",
     "00. Inbox",
-    "README.md",
     "Tags",
-    "Kanban Roadmap.md",
-    "00.Inbox/2026-01-28.md",
-    "99.Meta/Templates",
-    "99.Meta/Images",
-    "99.Meta",
-    "20.Areas/CS/브라우저 렌더링.md",
-    "20. Areas/CS/무제.md",
-    "20. Areas/CS/브라우저 렌더링.md",
-    "무제.md"
+    "99.Meta/Templates"
   ]
 }
