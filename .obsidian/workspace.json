@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99.Meta/Templates/DailyNoteTemplate.md",
+                "file": "20.Areas/CS/Web/캐시.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DailyNoteTemplate"
+              "title": "캐시"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99.Meta/Templates/DailyNoteTemplate.md",
+                "file": "20.Areas/CS/Web/캐시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "DailyNoteTemplate 의 백링크"
+              "title": "캐시 의 백링크"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99.Meta/Templates/DailyNoteTemplate.md",
+                "file": "20.Areas/CS/Web/캐시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "DailyNoteTemplate 의 나가는 링크"
+              "title": "캐시 의 나가는 링크"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99.Meta/Templates/DailyNoteTemplate.md",
+                "file": "20.Areas/CS/Web/캐시.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DailyNoteTemplate 의 개요"
+              "title": "캐시 의 개요"
             }
           },
           {
@@ -217,12 +217,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e001f822c6852e2",
+  "active": "d667e434ed6f16fa",
   "lastOpenFiles": [
-    "DailyNote/2026-01-28.md",
-    "99.Meta/Templates/DailyNoteTemplate.md",
-    "DailyNote/DailyNote.md",
+    "20.Areas/CS/Web/브라우저 렌더링.md",
+    "20.Areas/CS/Web/쿠키, 세션, 토큰, 캐시.md",
+    "20.Areas/CS/Web/캐시.md",
     "20.Areas/CS/Frontend/CSR, SSR.md",
+    "99.Meta/Templates/DailyNoteTemplate.md",
+    "DailyNote/2026-01-28.md",
+    "DailyNote/DailyNote.md",
     "2026-01-28.md",
     "00.Inbox/00.Inbox.md",
     "20.Areas/CS/CS.md",
@@ -237,9 +240,6 @@
     "00.Inbox/테스트.md",
     "Untitled.md",
     "DailyNote",
-    "20.Areas/CS/Web/쿠키, 세션, 토큰, 캐시.md",
-    "20.Areas/CS/Web/브라우저 렌더링.md",
-    "20.Areas/CS/Web/캐시.md",
     "20.Areas/CS/Frontend/Frontend.md",
     "20.Areas/CS/Frontend",
     "Excalidraw/Excalidraw.md",
