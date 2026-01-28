@@ -13,48 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "99.Meta/Templates/DailyNoteTemplate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "42174badbae27cf6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Kanban Roadmap.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Roadmap"
-            }
-          },
-          {
-            "id": "5efe323071fe26f2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Tags"
-              },
-              "icon": "lucide-file",
-              "title": "Tags"
+              "title": "DailyNoteTemplate"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99.Meta/Templates/DailyNoteTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "DailyNoteTemplate 의 백링크"
             }
           },
           {
@@ -156,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99.Meta/Templates/DailyNoteTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "DailyNoteTemplate 의 나가는 링크"
             }
           },
           {
@@ -198,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "99.Meta/Templates/DailyNoteTemplate.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "DailyNoteTemplate 의 개요"
             }
           },
           {
@@ -231,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,38 +217,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5efe323071fe26f2",
+  "active": "7e001f822c6852e2",
   "lastOpenFiles": [
+    "DailyNote/2026-01-28.md",
+    "99.Meta/Templates/DailyNoteTemplate.md",
+    "DailyNote/DailyNote.md",
+    "20.Areas/CS/Frontend/CSR, SSR.md",
+    "2026-01-28.md",
+    "00.Inbox/00.Inbox.md",
+    "20.Areas/CS/CS.md",
+    "README.md",
+    "Kanban/Kanban Roadmap.md",
+    "99.Meta/99.Meta.md",
+    "40.Archives/40.Archives.md",
+    "30.Resources/30.Resources.md",
+    "20.Areas/20.Areas.md",
+    "10.Projects/10.Projects.md",
     "Kanban/Kanban.md",
     "00.Inbox/테스트.md",
-    "00.Inbox/00.Inbox.md",
-    "DailyNote/2026-01-28.md",
-    "Kanban/Kanban Roadmap.md",
-    "README.md",
-    "DailyNote/DailyNote.md",
     "Untitled.md",
     "DailyNote",
-    "20.Areas/CS/Frontend/CSR, SSR.md",
     "20.Areas/CS/Web/쿠키, 세션, 토큰, 캐시.md",
     "20.Areas/CS/Web/브라우저 렌더링.md",
     "20.Areas/CS/Web/캐시.md",
     "20.Areas/CS/Frontend/Frontend.md",
-    "20.Areas/CS/CS.md",
     "20.Areas/CS/Frontend",
-    "20.Areas/20.Areas.md",
-    "10.Projects/10.Projects.md",
     "Excalidraw/Excalidraw.md",
     "Obsidian 1.md",
     "Vault.md",
     "Kanban",
     "Obsidian.md",
     "Excalidraw/Drawing 2026-01-28 22.45.07.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-28 22.45.44.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-28 22.45.58.excalidraw.md",
-    "Excalidraw/이름 없는 보드.md",
-    "Excalidraw/Drawing 2026-01-28 22.45.55.excalidraw.md",
     "Excalidraw",
-    "00.Inbox/트.md",
     "99. Meta",
     "40. Archives",
     "30. Resources",
