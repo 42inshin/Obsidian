@@ -17,33 +17,15 @@
 
 ---
 
-## 🛠 사용 중인 도구 & 환경
-
-* **Editor**: [Obsidian](https://obsidian.md/)
-* **Sync**: GitHub (Obsidian Git 플러그인 사용)
-* **Key Plugins**:
-    * `Obsidian Git`: 자동 백업 및 푸시
-    * `Dataview`: 데이터 쿼리 및 대시보드 생성
-    * `Templater`: 문서 구조 자동화
-    * `Excalidraw`: 핸드 드로잉 및 다이어그램
-
----
-
 ## 🚀 백업 규칙 (Workflow)
 
-1.  **매일 종료 시**: `Obsidian Git` 플러그인을 통해 자동으로 Commit & Push를 수행합니다.
-2.  **커밋 메시지 규칙**:
-    * `feat`: 새로운 노트 추가
-    * `fix`: 오타 수정 및 내용 보완
-    * `docs`: 문서 구조 변경 (템플릿 등)
-3.  **이미지 관리**: 모든 이미지는 `99. Meta/Attachments` 폴더에 모아 관리하며, 가급적 WebP 형식을 권장합니다.
+1.  **자동화**: `Obsidian Git` 플러그인을 통해 자동으로 Commit & Push를 수행합니다.
+2.  **이미지 관리**: 모든 이미지는 `99. Meta/Attachments` 폴더에 모아 관리합니다.
 
 ---
 
 ## 🔗 주요 학습 카테고리 바로가기
 
-* [Algorithm & Data Structure](./20.Areas/Algorithm)
-* [JavaScript / TypeScript](./20.Areas/Development/JS)
 * [Computer Science](./20.Areas/CS)
 
 ---

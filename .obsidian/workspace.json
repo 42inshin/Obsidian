@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Areas/CS_FE/브라우저 렌더링.md",
+                "file": "20. Areas/CS/브라우저 렌더링.md",
                 "mode": "source",
                 "source": false
               },
@@ -241,6 +241,8 @@
   },
   "active": "42174badbae27cf6",
   "lastOpenFiles": [
+    "20.Areas/Development",
+    "20.Areas",
     "무제.md",
     "README.md",
     "99. Meta/Templates",
@@ -251,7 +253,7 @@
     "20. Areas",
     "10. Projects",
     "00. Inbox",
-    "20. Areas/CS_FE/브라우저 렌더링.md",
-    "20. Areas/CS_FE"
+    "20. Areas/CS/브라우저 렌더링.md",
+    "20. Areas/CS"
   ]
 }
