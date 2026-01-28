@@ -47,10 +47,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "00.Inbox"
+                "path": "10.Projects"
               },
               "icon": "lucide-file",
-              "title": "00.Inbox"
+              "title": "10.Projects"
             }
           }
         ],
@@ -248,6 +248,18 @@
   },
   "active": "5efe323071fe26f2",
   "lastOpenFiles": [
+    "99. Meta/99. Meta.md",
+    "99. Meta",
+    "40. Archives/40. Archives.md",
+    "40. Archives",
+    "30. Resources/30. Resources.md",
+    "30. Resources",
+    "20. Areas/20. Areas.md",
+    "20. Areas",
+    "10. Projects/10. Projects.md",
+    "10. Projects",
+    "00. Inbox/00. Inbox.md",
+    "00. Inbox",
     "00.Inbox/00.Inbox.md",
     "20.Areas/CS/Web/브라우저 렌더링.md",
     "README.md",
@@ -257,13 +269,7 @@
     "99.Meta/Templates",
     "99.Meta/Images",
     "99.Meta",
-    "40.Archives",
-    "30.Resources",
     "20.Areas/CS/브라우저 렌더링.md",
-    "20.Areas/CS/Web",
-    "20.Areas/CS",
-    "20.Areas",
-    "10.Projects",
     "20. Areas/CS/무제.md",
     "20. Areas/CS/브라우저 렌더링.md",
     "무제.md"
