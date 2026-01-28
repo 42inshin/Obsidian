@@ -51,22 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "a0fc3320dada8761",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4677a59db1ea9982",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -241,10 +225,12 @@
   },
   "active": "42174badbae27cf6",
   "lastOpenFiles": [
-    "20.Areas/Development",
-    "20.Areas",
-    "무제.md",
+    "20. Areas/CS/무제.md",
+    "20. Areas/CS/브라우저 렌더링.md",
     "README.md",
+    "무제.md",
+    "20.Areas",
+    "20.Areas/Development",
     "99. Meta/Templates",
     "99. Meta/Images",
     "99. Meta",
@@ -252,8 +238,6 @@
     "30. Resources",
     "20. Areas",
     "10. Projects",
-    "00. Inbox",
-    "20. Areas/CS/브라우저 렌더링.md",
-    "20. Areas/CS"
+    "00. Inbox"
   ]
 }

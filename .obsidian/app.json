@@ -1,4 +1,5 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "99. Meta/Images"
+  "attachmentFolderPath": "99. Meta/Images",
+  "promptDelete": false
 }
