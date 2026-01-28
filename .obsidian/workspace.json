@@ -189,13 +189,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "690ae74bed90ffdf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +221,9 @@
   },
   "active": "42174badbae27cf6",
   "lastOpenFiles": [
-    "20.Areas/CS/Web/브라우저 렌더링.md",
+    "00.Inbox/2026-01-28.md",
     "README.md",
+    "20.Areas/CS/Web/브라우저 렌더링.md",
     "99.Meta/Templates",
     "99.Meta/Images",
     "99.Meta",
