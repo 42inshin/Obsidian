@@ -1,11 +1,6 @@
 # macOS
 .DS_Store
 
-# Obsidian
-.obsidian/
-.makemd/
-.space/
-
 # 기타
 node_modules/
 .trash/
