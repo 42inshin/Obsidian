@@ -45,20 +45,14 @@
             "id": "66220053f92b6a83",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Kanban Roadmap.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "20.Areas/CS/Web/캐시.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Roadmap"
+              "icon": "lucide-file",
+              "title": "캐시"
             }
           },
           {
@@ -108,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"sticker\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban Roadmap.md",
+                "file": "20.Areas/CS/Web/캐시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Kanban Roadmap 의 백링크"
+              "title": "캐시 의 백링크"
             }
           },
           {
@@ -179,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban Roadmap.md",
+                "file": "20.Areas/CS/Web/캐시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Kanban Roadmap 의 나가는 링크"
+              "title": "캐시 의 나가는 링크"
             }
           },
           {
@@ -222,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Kanban Roadmap.md",
-                "followCursor": false,
+                "file": "20.Areas/CS/Web/캐시.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kanban Roadmap 의 개요"
+              "title": "캐시 의 개요"
             }
           },
           {
@@ -256,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,8 +268,19 @@
   },
   "active": "7e001f822c6852e2",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
+    "20.Areas/CS/Frontend/CSR, SSR.md",
+    "20.Areas/CS/Web/쿠키, 세션, 토큰, 캐시.md",
+    "20.Areas/CS/Web/캐시.md",
+    "20.Areas/CS/Web/브라우저 렌더링.md",
+    "20.Areas/CS/Frontend/Frontend.md",
+    "20.Areas/CS/CS.md",
+    "20.Areas/CS/Frontend",
+    "20.Areas/20.Areas.md",
+    "10.Projects/10.Projects.md",
+    "00.Inbox/테스트.md",
+    "00.Inbox/00.Inbox.md",
     "Kanban/Kanban Roadmap.md",
+    "Kanban/Kanban.md",
     "Excalidraw/Excalidraw.md",
     "README.md",
     "Obsidian 1.md",
@@ -283,32 +288,21 @@
     "Kanban",
     "Untitled.md",
     "Obsidian.md",
-    "00.Inbox/00.Inbox.md",
     "Excalidraw/Drawing 2026-01-28 22.45.07.excalidraw.md",
     "Excalidraw/Drawing 2026-01-28 22.45.44.excalidraw.md",
     "Excalidraw/Drawing 2026-01-28 22.45.58.excalidraw.md",
     "Excalidraw/이름 없는 보드.md",
     "Excalidraw/Drawing 2026-01-28 22.45.55.excalidraw.md",
-    "00.Inbox/테스트.md",
     "Excalidraw",
     "00.Inbox/트.md",
-    "20.Areas/CS/Web/브라우저 렌더링.md",
-    "20.Areas/CS/Web/Untitled.md",
-    "10.Projects/10.Projects.md",
     "99.Meta/99.Meta.md",
     "40.Archives/40.Archives.md",
-    "30.Resources/30.Resources.md",
-    "20.Areas/20.Areas.md",
-    "99. Meta/99. Meta.md",
     "99. Meta",
-    "40. Archives/40. Archives.md",
     "40. Archives",
-    "30. Resources/30. Resources.md",
     "30. Resources",
     "20. Areas",
     "10. Projects",
     "00. Inbox",
-    "Tags",
-    "99.Meta/Templates"
+    "Tags"
   ]
 }
