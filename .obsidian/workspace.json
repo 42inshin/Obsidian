@@ -47,10 +47,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "10.Projects"
+                "path": "00.Inbox"
               },
               "icon": "lucide-file",
-              "title": "10.Projects"
+              "title": "00.Inbox"
             }
           }
         ],
@@ -248,6 +248,14 @@
   },
   "active": "5efe323071fe26f2",
   "lastOpenFiles": [
+    "00.Inbox/00.Inbox.md",
+    "20.Areas/CS/Web/브라우저 렌더링.md",
+    "20.Areas/CS/Web/Untitled.md",
+    "10.Projects/10.Projects.md",
+    "99.Meta/99.Meta.md",
+    "40.Archives/40.Archives.md",
+    "30.Resources/30.Resources.md",
+    "20.Areas/20.Areas.md",
     "99. Meta/99. Meta.md",
     "99. Meta",
     "40. Archives/40. Archives.md",
@@ -260,8 +268,6 @@
     "10. Projects",
     "00. Inbox/00. Inbox.md",
     "00. Inbox",
-    "00.Inbox/00.Inbox.md",
-    "20.Areas/CS/Web/브라우저 렌더링.md",
     "README.md",
     "Tags",
     "Kanban Roadmap.md",
