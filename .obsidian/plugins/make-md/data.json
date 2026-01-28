@@ -42,7 +42,8 @@
     "//Tags",
     "//20.Areas",
     "//20.Areas/20.Areas/CS",
-    "//20.Areas/20.Areas/CS/20.Areas/CS/Web"
+    "//20.Areas/20.Areas/CS/20.Areas/CS/Web",
+    "//00.Inbox"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

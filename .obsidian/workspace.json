@@ -42,31 +42,19 @@
             }
           },
           {
-            "id": "f772a77588344bc5",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
             "id": "5efe323071fe26f2",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Tags"
+                "path": "00.Inbox"
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "00.Inbox"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,6 +248,7 @@
   },
   "active": "5efe323071fe26f2",
   "lastOpenFiles": [
+    "00.Inbox/00.Inbox.md",
     "20.Areas/CS/Web/브라우저 렌더링.md",
     "README.md",
     "Tags",
