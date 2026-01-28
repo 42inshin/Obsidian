@@ -26,7 +26,7 @@
 
 ## 🔗 주요 카테고리 바로가기
 
-* [Computer Science](./20. Areas/CS)
+[Computer Science](./20. Areas/CS)
 
 ---
 
