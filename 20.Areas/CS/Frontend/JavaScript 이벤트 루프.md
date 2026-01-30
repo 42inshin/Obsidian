@@ -12,7 +12,7 @@
    - `Promise.then`, `await`, `queueMicrotask()` 등
    - Call Stack이 비면 **즉시 처리**
 3. **Macrotask Queue (Task Queue)**
-   - `setTimeout`, `setInterval`, `setImmediate`, `requestAnimationFrame` 등
+   - `setTimeout`, `setInterval`, `setImmediate` 등
    - **Microtask가 모두 처리된 후** 처리됨
 
 ---
