@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNote/2026-01-29.md",
+                "file": "20.Areas/CS/Frontend/JavaScript 이벤트 루프.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-29"
+              "title": "JavaScript 이벤트 루프"
             }
           }
         ]
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -217,15 +217,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d667e434ed6f16fa",
+  "active": "2bf7d8d19d8f752c",
   "lastOpenFiles": [
-    "DailyNote/2026-01-28.md",
+    "20.Areas/CS/Web/Web.md",
+    "20.Areas/CS/Frontend/JavaScript 이벤트 루프.md",
+    "20.Areas/CS/Web/브라우저 렌더링.md",
+    "20.Areas/CS/Frontend/Frontend.md",
+    "DailyNote/2026-01-30.md",
     "DailyNote/2026-01-29.md",
+    "DailyNote/2026-01-28.md",
     "99.Meta/Templates/DailyNoteTemplate.md",
     "00.Inbox/테스트.md",
     "00.Inbox/Untitled.md",
     "20.Areas/CS/Web/캐시.md",
-    "20.Areas/CS/Web/브라우저 렌더링.md",
     "20.Areas/CS/Web/쿠키, 세션, 토큰, 캐시.md",
     "20.Areas/CS/Frontend/CSR, SSR.md",
     "DailyNote/DailyNote.md",
@@ -242,11 +246,7 @@
     "Kanban/Kanban.md",
     "Untitled.md",
     "DailyNote",
-    "20.Areas/CS/Frontend/Frontend.md",
     "20.Areas/CS/Frontend",
-    "Excalidraw/Excalidraw.md",
-    "Obsidian 1.md",
-    "Vault.md",
     "Kanban",
     "Excalidraw",
     "99. Meta",
