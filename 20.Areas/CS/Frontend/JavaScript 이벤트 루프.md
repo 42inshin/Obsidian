@@ -7,13 +7,14 @@
 
 ## 🔄 이벤트 루프 구조
 
-1. **Call Stack**: 동기 코드 실행
+1. **Call Stack**: 현재 실행 중인 동기 코드를 처리
 2. **Microtask Queue**
+   - Call Stack이 비면 여기에 쌓인 **모든** 작업을 남김없이 처리
    - `Promise.then`, `await`, `queueMicrotask()` 등
-   - Call Stack이 비면 **즉시 처리**
 3. **Macrotask Queue (Task Queue)**
-   - `setTimeout`, `setInterval`, `setImmediate` 등
    - **Microtask가 모두 처리된 후** 처리됨
+   - 큐에 있는 작업을 **딱 하나**만 가져와 실행하고 다시 1번으로 돌아감
+   - `setTimeout`, `setInterval`, `setImmediate` 등
 
 ---
 
