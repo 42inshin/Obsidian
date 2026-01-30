@@ -78,13 +78,15 @@ timeout
 ```js
 console.log("start");
 
-queueMicrotask(() => {
-  console.log("microtask");
-});
-
+// 1. Macrotask를 먼저 등록
 setTimeout(() => {
-  console.log("macrotask");
+  console.log("macrotask (setTimeout)");
 }, 0);
+
+// 2. Microtask를 나중에 등록
+queueMicrotask(() => {
+  console.log("microtask (queueMicrotask)");
+});
 
 console.log("end");
 ```
@@ -93,8 +95,8 @@ console.log("end");
 ```
 start
 end
-microtask
-macrotask
+microtask (queueMicrotask)
+macrotask (setTimeout)
 ```
 
 ---
