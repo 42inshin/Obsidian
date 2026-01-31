@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNote/2026-01-31.md",
+                "file": "20.Areas/CS/Frontend/코테 1일 전 문법 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-31"
+              "title": "코테 1일 전 문법 정리"
             }
           }
         ]
@@ -220,8 +220,10 @@
   },
   "active": "d667e434ed6f16fa",
   "lastOpenFiles": [
-    "DailyNote/2026-01-30.md",
+    "20.Areas/CS/Frontend/JavaScript 이벤트 루프.md",
+    "20.Areas/CS/Frontend/코테 1일 전 문법 정리.md",
     "DailyNote/2026-01-31.md",
+    "DailyNote/2026-01-30.md",
     "10.Projects/10.Projects.md",
     "DailyNote/Untitled.md",
     "00.Inbox/테스트.md",
@@ -238,14 +240,12 @@
     "20.Areas/CS/Web/브라우저 렌더링.md",
     "20.Areas/CS/Web/쿠키, 세션, 토큰, 캐시.md",
     "20.Areas/CS/Frontend/CSR, SSR.md",
-    "20.Areas/CS/Frontend/JavaScript 이벤트 루프.md",
     "20.Areas/CS/Frontend/Frontend.md",
     "DailyNote/2026-01-29.md",
     "00.Inbox/Untitled.md",
     "20.Areas/CS/Web/캐시.md",
     "DailyNote/DailyNote.md",
     "2026-01-28.md",
-    "Kanban/Kanban Roadmap.md",
     "DailyNote",
     "20.Areas/CS/Frontend",
     "Kanban",
